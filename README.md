@@ -8,9 +8,9 @@
         4. Borrar tareas. 
     
     Ejecutar este comando para instalar dependencias necesarias:
-    ```
-    npm install     
-    ```
+```
+npm install     
+```
 
 ## To-do app on NodeJS
 
@@ -23,6 +23,6 @@
 
     Please run this command to install necessary dependencies:
 
-    ```
-    npm install 
-    ``` 
+```
+npm install 
+``` 
